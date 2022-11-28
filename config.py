@@ -1,4 +1,4 @@
-TOKEN = '5592401463:AAFB0AG5IypT-8KfM6br_2BZdUA0nqkAP4M'
+TOKEN = 'Здесь должен быть размещён ваш токен'
 
 keys = {
     'доллар': 'USD',
